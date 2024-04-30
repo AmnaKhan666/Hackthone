@@ -1,0 +1,27 @@
+.one
+{
+    background: url(img/mountains-morning-snow-rock-mountain-landscape.png);
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+.two
+{
+    color: #FFFFFF;
+}
+nav
+{
+    border-bottom: 2px solid white;
+}
+.three
+{
+    color: #FFFFFF;
+    font-size: 42px;
+}
+.btn-light
+{
+    border-radius: 50px;
+}
+.four
+{
+    width: 200px;
+}
